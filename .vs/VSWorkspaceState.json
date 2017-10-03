@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\database",
+    "\\public",
+    "\\routes"
+  ],
+  "SelectedNode": "\\routes\\web.php",
+  "PreviewInSolutionExplorer": false
+}
